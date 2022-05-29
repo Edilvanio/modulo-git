@@ -1,6 +1,6 @@
 meu primeiro sistema no git
 
-
+alterado no git hub
 
 C:\Users\coop\Desktop\Git\modulogit>git add -a
 error: unknown switch `a'
